@@ -40,6 +40,7 @@ The figure below illustrates the experimental setup for using the fuzz
 tester. Openswan is a mature IPsec implementation, which is used to
 generate valid IKE message sequences. 
 
+```
     +--------+                         +--------+
     |Opponent|<------------------------|  SUT   |
     +--------+\                      ->+--------+
@@ -48,6 +49,7 @@ write to |      \                  /
          \/      --->+---------+---
    log file -------->| SecFuzz |
              read    +---------+
+```
 
 The behavior of the IUT can be monitored using a dynamic analysis
 tool, e.g. memory error detector such as Valgrind's Memcheck.
