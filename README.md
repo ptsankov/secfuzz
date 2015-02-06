@@ -124,5 +124,4 @@ IX. CONTACT INFORMATION
 For further information on how to use the IKE fuzz tester:
 
 Petar Tsankov
-Email: ptsankov@student.ethz.ch
-
+Email: petar.tsankov@gmail.com
