@@ -1,22 +1,3 @@
----------------------------------------------------------------------
-       This is the README file for the Internet Key Exchange
-           (IKE) protocol fuzz tester, November 14 2011
----------------------------------------------------------------------
-
-
-CONTENTS
---------
-I. What does it do
-II. Fuzz operators
-III. How does it work
-IV. How to use the fuzz tester
-V. Software dependencies
-VI. Important files
-VII. Known problems
-VIII. Version history
-IX. Contact information
-
-
 I. WHAT DOES IT DO
 ------------------
 The purpose of the IKE fuzz tester is to evaluate IKE implementations
